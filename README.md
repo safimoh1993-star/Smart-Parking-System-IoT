@@ -29,7 +29,7 @@ It demonstrates practical IoT applications using sensors and Arduino technology.
 ---
 
 ## 💻 Code File
-All Arduino logic is included in **SmartParking.ino**.  
+All Arduino logic is included in **[SmartParking.ino](https://github.com/safimoh1993-star/Smart-Parking-System-IoT/commit/1ef3efb6484c170953ee334ae8a297acc58d8d74)**.  
 The code can be simulated using **Tinkercad Circuits** or implemented on a physical prototype.  
 
 ---
