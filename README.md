@@ -43,7 +43,7 @@ Use these components: **Arduino UNO**, **Ultrasonic Sensor**, **LCD Display**, a
 ## 📸 Project Files
 - `/Circuit` → Circuit diagram  
 - `/Docs` → Components list, detailed explanation  
-- `/Video` → [Demo video of the working project](#)  
+- `/Video` → [Demo video of the working project ](https://www.linkedin.com/posts/safiyah-al-qarni-513176240_smart-parking-system-iot-project-im-activity-7295506473499922433-fi8E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvTLl8BAWX2L7FEtmTU9TsTPiuXL_oggqk)
 
 ---
 
